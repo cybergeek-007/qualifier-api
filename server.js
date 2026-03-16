@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // Your official email - change this if needed
-const OFFICIAL_EMAIL = 'ritesh1428.be23@chitkarauniversity.edu.in';
+const OFFICIAL_EMAIL = 'YOUR_EMAIL';
 
 // Initialize Groq client using OpenAI SDK format
 // Groq is compatible with OpenAI's API format
